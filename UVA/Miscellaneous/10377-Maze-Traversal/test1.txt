@@ -1,0 +1,1813 @@
+100
+
+7 19
+*******************
+*        * ** *   *
+**  *** **  *   ***
+**           *    *
+*  *  *  * *    ***
+**   * *  * *     *
+*******************
+8 12
+LFFFF FFRR LL  FFR L Q
+
+14 11
+***********
+**    * ***
+***   *   *
+*  **   * *
+***  * *  *
+**  *     *
+**   *    *
+*   *   * *
+*  * **   *
+*  **** * *
+*   * * * *
+*     * * *
+*  *** * **
+***********
+8 10
+ LFFRRLF  LFF LRFL L FFRRL L LFFLLRFRFL LRFFRFF     RF L R LLL FFFRFRRL FRF RF   FFLR    FR FQ
+
+20 23
+***********************
+** * *      ***  ** * *
+**        *   **   *  *
+**       **      *    *
+*  * *    * *    **   *
+* ***       *  **     *
+*  *****     *      ***
+*     * * *  *  **    *
+** * * *  * **  *     *
+*  ** *  *     *      *
+*  * *     *  **    * *
+*    *    * ** *      *
+*    *  * *     **    *
+*        **  **       *
+* * *    ***     *    *
+*         **  *       *
+*  ***    *           *
+*  *   *              *
+****        *      *  *
+***********************
+21 7
+FRF F   F LR  LFRRR LLR LRRFLFLRLQ
+
+9 20
+********************
+* *       * * *   **
+******   *    *   **
+* * **          *  *
+* **    *   * **   *
+*  *        * *  ***
+*  *        **  ** *
+*  ***             *
+********************
+8 8
+R RRF L    LLRFFR FR L   FL LLL R LL FRF LFRR LR  RLL LLR RLLLLRRRFLR  Q
+
+23 4
+****
+** *
+*  *
+*  *
+*  *
+*  *
+*  *
+*  *
+* **
+*  *
+* **
+** *
+*  *
+* **
+*  *
+** *
+****
+*  *
+* **
+** *
+*  *
+*  *
+****
+22 3
+ FF F FLLLL  LRF  FFFL   RFR FLR R  RL LRR RL   FF   RLRRF LR  F RF RR FLLFFLLR RFL RFFFFLLLRR  L RF  RFR F RLFR Q
+
+6 5
+*****
+** **
+*   *
+*   *
+*  **
+*****
+7 6
+ LRFLR LFLR LF LFR RRRRLRR RRLLF  LFLFRRL LL RR R LL RRRLR RFFFFL FRF RR LFLFLLL LFLF FR  F LF  LFFFQ
+
+19 4
+****
+** *
+*  *
+*  *
+*  *
+*  *
+*  *
+*  *
+*  *
+* **
+* **
+** *
+*  *
+****
+** *
+* **
+*  *
+* **
+****
+5 3
+RLLRFLRFLLLFF L   LLL LRFLR  FR  RFLR  RLRLR LF LL FFLFFF FRRFFLRL  RFLFRLLF     FFRQ
+
+4 14
+**************
+** **   * ** *
+*      ****  *
+**************
+5 13
+RLFRR  RFLLLF L F  FLRF L RLFRFLLFLFLRQ
+
+23 13
+*************
+*   *     * *
+*    **     *
+**          *
+** *      * *
+**  * * *   *
+***         *
+*      * ** *
+* **  *     *
+*     **  * *
+*  *  *   * *
+* *   * *   *
+* **      * *
+*      *    *
+*   **   * **
+**      *   *
+*   *       *
+*    *  *  **
+* **  **    *
+*     *    **
+**      *  **
+*           *
+*************
+16 3
+  RQ
+
+22 21
+*********************
+*         **        *
+*     *       *    **
+*    * *   *    **  *
+* ***        *      *
+**  * *  *        * *
+**       *          *
+*  *            *   *
+** *   *   **  * * **
+*  *     *    **    *
+* *  **       *     *
+**         *  *     *
+*    ** *   *    * **
+* **      *   *    **
+*  **         * *  **
+*  **               *
+* *     *        *  *
+* *  *      *  * *  *
+*  *        *  *    *
+* ** *  *     * *   *
+*     *     ** *    *
+*********************
+17 16
+F LQ
+
+12 19
+*******************
+* * *  *  *   *   *
+*    *         * **
+**  * **    *     *
+*  **   *** *     *
+*      *       *  *
+***  *   *       **
+****    *    *  * *
+*  *    *   ** *  *
+**  *   ****  *   *
+**        **     **
+*******************
+9 3
+R RLFLF FFLRRLF FLR FLRF LRL RLLR LLL RL   LRF LRLLR  FFL  L L   L R  R  RLFLRRLFLLRRRRLRFLFLR F LRRR     RL L R L RRFLR  FLLFFRLFR FFRLFFLLLLFFFRRRLF R Q
+
+19 14
+**************
+***    *  ****
+*      *     *
+*    *  * *  *
+*          * *
+*  *     *  **
+*  *  * *    *
+*     * *  * *
+*    **      *
+* *  *     * *
+*   **    *  *
+*       *** **
+*   *        *
+* *  ***   * *
+*            *
+****      *  *
+** * **      *
+*      *  *  *
+**************
+4 2
+FL  LLFL  LLR  F FLFRRRLLLRLRRRF LL RRFLLFLR  LFRLLFQ
+
+7 11
+***********
+*  *  *   *
+*   **   **
+*   **    *
+*  * *    *
+**   *    *
+***********
+3 9
+FFR F LRRFLR FRF FL  RF FL Q
+
+22 13
+*************
+*  *   * *  *
+*    *     **
+*      * *  *
+**     *    *
+***    *    *
+*  *    *   *
+*     * * ***
+*      *   **
+*   *    *  *
+*          **
+**   *     **
+** *  * *   *
+***   *  *  *
+*           *
+*        ** *
+*    *   *  *
+*     *     *
+*   ** ***  *
+* **        *
+*  ** *   * *
+*************
+10 8
+FL FFLR FFL RLRR RR RRLF RLR RRLLFL  LRFFL R FLRFR L L R   F L R LL LRLLR L   LLFRRFRFLL FRLRLRFFRLRFRFFFRRQ
+
+22 8
+********
+**     *
+*     **
+*      *
+*   ****
+*  *****
+* **   *
+** *   *
+*      *
+*   *  *
+* *    *
+* *   **
+*      *
+*   *  *
+*   *  *
+*      *
+**    **
+* *
+*   *  *
+* *    *
+*     **
+********
+18 8
+R  R RFLFLLRR LL  LFFFRFFFQ
+
+19 9
+*********
+*    *  *
+*    *  *
+**   * **
+*   *  **
+*     * *
+*    * *
+* *     *
+*   *  **
+*  ***  *
+*  *    *
+*      **
+****    *
+***     *
+*    * **
+*      **
+*       *
+*** *   *
+*********
+7 9
+  RL FL  LFFRLLL  FFRFLR F RL LFFRRRFR RFLR FFL FR RL RFR RF R FFFFLLFFRLR  LR LR   R F  LR FRFRR LRL LR RFF  L  LLLL LFR  LRRL FL Q
+
+15 20
+********************
+*    *  *  *     ***
+* **   *  * * *    *
+*  *  *  ** * **   *
+*  *  * **        **
+*     * **   *  *  *
+**   *  * *     *  *
+**  *     ***  *   *
+* *  **            *
+*  *     *   **    *
+*  ***    * *   *  *
+*  *            *  *
+* * *   *  *      **
+*           *  *   *
+********************
+7 7
+ FF  R R LRRF  F RFRLFR FLLRLF FLLLL  L Q
+
+8 5
+*****
+**  *
+*   *
+*   *
+**  *
+**  *
+*   *
+*****
+7 3
+RQ
+
+22 22
+**********************
+* *   * *     *     **
+**  *  * **  * *    **
+* *    *   **  *  * **
+**   *      *       **
+*  *  *   *   *    * *
+* ***     ***  *    **
+*    *   *  *  *   ***
+*  *        *        *
+*    *   *     *     *
+* *        *         *
+*  *  *   ****  *    *
+**   *      *        *
+*    *     *        **
+****     *    ** * * *
+* *               *  *
+*   *       *        *
+**   **  *       **  *
+*                   **
+* *          * ***   *
+*                ** **
+**********************
+7 8
+LLFQ
+
+10 14
+**************
+** *         *
+*   *    *  **
+*  *  *    * *
+** * *    *  *
+*        **  *
+**      *    *
+*     * * *  *
+*     *    * *
+**************
+9 11
+RRLFLR  LRLRLRLL FFF L FFRLR FR LLL RFFF  FLFLFFRLL  LLRRFRFFQ
+
+20 11
+***********
+***    ** *
+* * *  ****
+*  *      *
+*   *     *
+**        *
+*   *  *  *
+*        **
+***  *    *
+**    *   *
+*  *  **  *
+*       * *
+*     *   *
+* *       *
+*    ** * *
+**   * *  *
+**  *   * *
+** *      *
+* *     * *
+* *********
+20 2
+Q
+
+12 8
+********
+*      *
+*      *
+* * ** *
+*      *
+*      *
+*     **
+* *    *
+**    **
+*   *  *
+*  *   *
+********
+2 6
+ FR RRF  LRFF LLRL RRRF  LFFLR RR FRFFFLRR   LRLLF LL L Q
+
+10 14
+**************
+*   *  *     *
+*     *      *
+*   * *   ** *
+***     *    *
+*   *        *
+*            *
+* *    * **  *
+*  ***     ***
+**************
+11 15
+ FFRRLFLLLRFFRRLLRFF  FF LRRQ
+
+13 15
+***************
+**            *
+**          * *
+*      **     *
+**   *     *  *
+*   **   *    *
+*      *  *   *
+* *    ** *   *
+** *   *   *  *
+*        *  * *
+***       **  *
+*       **    *
+***************
+12 14
+ L F F RR  LFFL  FLLLRRRL LRFR L LR F  RFLFFF  L FFFFFLRLFLRLLLF   LFLF RFRLLFFL LFLR  FFRR LFFFL RFLF  LRRFR  FL   RFFR FF FLLRLRFL Q
+
+18 14
+**************
+*      *  *  *
+* *     *  ***
+*    **    * *
+*  **        *
+*     *     **
+*       *  * *
+* *    *    **
+* *   *   ****
+*  ** *  ** **
+*         *  *
+**** **      *
+* **** **    *
+**  *      * *
+*  *         *
+**     *     *
+** * ** *    *
+**************
+5 6
+F FLLF FRLLFRR FRFR RR LL R R LRRF RR LRFFRRRR LF L L L LRQ
+
+13 14
+**************
+*    *    * **
+*     *     **
+*  *    *    *
+*   *  * **  *
+**   *       *
+*  *    *    *
+*  *  *  *   *
+* **         *
+*            *
+*     *****  *
+*  *      *  *
+**************
+6 7
+L FLLRFRL  LQ
+
+22 16
+****************
+*   * *     *  *
+**  *  ** * ****
+**        *    *
+*        *     *
+*   * * *      *
+**         *   *
+*    *         *
+* *      *     *
+*    ****    * *
+**    *    ** **
+* *    *     ***
+*** * *  *  *  *
+***  *     **  *
+*  *           *
+*        *     *
+*      * * * *
+*       * *   **
+*    *   * *****
+* *   * *     **
+*    *  *      *
+****************
+17 16
+FLFFRRR   F RLFFRFRRRR R  LFFLRLLRL RRF FLFRRFRLR  RR LRLR LRFF  F  RRRF  R FRFLLL FFFLFR  FFF LRLRRLF FRFRRRLL RFQ
+
+15 14
+**************
+*       *    *
+**           *
+*    ***     *
+*     * * *  *
+*         ** *
+* * * * *    *
+*     *     **
+*            *
+*   *        *
+*   *  *    **
+**     * * * *
+*   *    *   *
+*    *      **
+**************
+14 8
+LL  LLFRFFLFRRR F  LL L R L RLR  L R RR F RR     FFLRF L LFR RFFF  F Q
+
+14 9
+*********
+**  *  **
+*       *
+*   *   *
+*   **  *
+*       *
+***   * *
+**      *
+* * *  **
+*       *
+*     * *
+*  *    *
+*  ** * *
+*********
+13 3
+RL LFFRFRR LL FRF FLF FL   F  FL FL    RRFFR LF FLFLLLL  RFFFRLRR LFL FLFLRF LL  F F FFFRFR FRR LLFLFLRF RRL L LF LR RLLLLRF FLLFFRRFRRRLRRFRL RR RLRL LLL LFRFRLLLFLRLL L  RQ
+
+8 12
+************
+* * *   * **
+*  * ** * **
+**         *
+* *  *    **
+* *     * **
+***        *
+************
+9 9
+  LR   L LLLFR LFFF    R   FLLFR R LRRFFFL L FFRLR FRRRRFF   RFFRFRL F RL LR R RRR RFRF R FLF L R FLLFRLRRRLL RFL FL  RRL    LRR LLLF RRR  F LLFR L  L FL LFF  R  LRLL FFL R F LFR LRR  R LFR RLLRRLFL   LLLRRFFR RRR FRQ
+
+4 4
+****
+*  *
+*  *
+****
+4 5
+LF F F  RRR L R RLF LFRFFLR R FF LRFR FRRFLRFRF FLLFRRLF LLLR FLRL  RFLR R LLF  LFLLLRFRQ
+
+4 5
+*****
+*   *
+*   *
+*****
+2 6
+LR RLLFLFLFR L F F L L RFRF FFF FLFL R LR FFF FFLR R  F  LLLQ
+
+15 17
+*****************
+*      *        *
+*   *           *
+* * *    *      *
+* *           ***
+** **   *      **
+*  *   *     *  *
+**      *   * ***
+* *   *         *
+*   **    * ** **
+****   **   **  *
+*    *    *  * **
+** *   *        *
+*      *     *  *
+*****************
+16 17
+  R F RLR   RFFRFRFL RRLFLQ
+
+9 15
+***************
+*       *  ****
+* * *         *
+*     ***     *
+*           ***
+*    *    * ***
+** ***        *
+*            **
+***************
+8 4
+FFLRRLF  Q
+
+9 18
+******************
+***     * *     **
+*         *      *
+*  **       * *  *
+*  ***          **
+*       **** **  *
+*    * *         *
+**  *  *   *     *
+******************
+3 7
+  LLLRQ
+
+16 15
+***************
+** * * *      *
+* * *    ***  *
+*  ** *   **  *
+*  *   *      *
+*  *        * *
+***       *   *
+****     ***  *
+* * *  *    ***
+*     *  **   *
+*     ** *  ***
+* *  **      **
+*    *        *
+*       ** * **
+* *     *     *
+***************
+9 4
+ FLQ
+
+22 16
+****************
+*      *       *
+** *  *  *  *  *
+**    *       **
+*              *
+**  **   * *   *
+*     *    *   *
+*  * *         *
+***   * **  * **
+*      *   * * *
+*   * *      * *
+*   ***  *     *
+*  *    *     **
+**        **** *
+*   *      * * *
+*    *     **  *
+**       ***  **
+**             *
+* *    *  ** * *
+*     *   * *  *
+* *  *  ***  * *
+****************
+14 10
+F  FL  FFLRRRLR F  F R F Q
+
+16 15
+***************
+**  * *  *    *
+*    *   * * **
+*   * *  *    *
+* * *         *
+* ****  * **  *
+**   **  *   **
+**            *
+**    *     * *
+*   *       * *
+*         *  **
+***     *     *
+*      * **   *
+**        **  *
+**        *   *
+***************
+13 5
+R   FRRF FF R RRFRLL F  LRLFLQ
+
+6 6
+******
+*  * *
+*  * *
+*   **
+*    *
+******
+4 2
+RFFRLLRRR R   R LLFFFLFFF RLLF LRL F FFFL LFQ
+
+7 17
+*****************
+* **  *  **    **
+*  *    * ** *  *
+* *     *  *    *
+*  * *     *  ***
+** *    *    * **
+******* *********
+7 8
+FRLFRR FQ
+
+9 8
+********
+*    ***
+**    **
+** *   *
+** *   *
+*      *
+*  ** **
+**   * *
+********
+10 5
+FLFRRR  R FFF   FF FLLLLL RRLRFRR  RQ
+
+16 6
+******
+** * *
+* ****
+* * **
+*    *
+* ** *
+**   *
+***  *
+*  * *
+*    *
+*    *
+**  **
+* ** *
+* * **
+**   *
+******
+8 5
+ LL RFR F  R F LL FFRR F  R R FRRFFLRL  FLFFLQ
+
+13 6
+******
+*    *
+*    *
+*    *
+* ** *
+* * **
+* *  *
+* *  *
+* ****
+*    *
+*    *
+**   *
+******
+3 3
+ Q
+
+20 14
+**************
+*   *****   **
+***   *  ** **
+* **         *
+*  * * **    *
+*   *       **
+*   * *      *
+*    *   **  *
+*  *         *
+*      *   * *
+** **      * *
+** *     **  *
+*   **  *    *
+*           **
+*    **      *
+***        * *
+*            *
+*            *
+* * *        *
+**************
+5 3
+FL  R FFLLFF   FFLQ
+
+5 16
+****************
+**  *   *  *   *
+***   *  **    *
+**       ***   *
+****************
+3 13
+LFF LFL  RRFRF R FL R R  F  LRL LLLR   R  LFLFLFF  LRR LR  RLF LFRFF LLRLRFFR  FFFL FRRRR LL   FRRLRLL  LRFF   LLFFRL     RFLF F L FLL R   R FL FR LFRFR FLFFFL  F RF   Q
+
+10 4
+****
+*  *
+****
+*  *
+** *
+* **
+*  *
+** *
+*  *
+****
+4 2
+RF LFRRFR  L  RL FF  LFRFLFFFLRRRL LL FR RFLRRL LRRFLRL L  F FQ
+
+20 12
+************
+** *   *** *
+* ** *     *
+*     *  ***
+* *        *
+* *        *
+** *    *  *
+***  * * * *
+*    * **  *
+* **       *
+*   *      *
+* **  *  * *
+**  *      *
+**** *     *
+**  *      *
+**    *    *
+*    *     *
+*         **
+**    *    *
+************
+21 11
+ L LRFLRFRFRRLRLR RFRF  LFL  FF F RFLQ
+
+22 10
+**********
+*   *    *
+*       **
+*     * **
+* *      *
+*** * *  *
+* *     **
+***  *   *
+*        *
+*        *
+*  * *   *
+* *      *
+*      ***
+**    * **
+*    * *
+*  *     *
+* **     *
+*     *  *
+*      ***
+* *   ****
+**       *
+**********
+15 10
+R R FL LRLLLLRF LFL FLLL R R FR LFFRR FFRLFLFRQ
+
+18 15
+***************
+*     *  **  **
+*        *    *
+*   * *       *
+*         *   *
+*     *  ***  *
+*     *  **   *
+*   ***   *  **
+* **    *   ***
+*             *
+**       * *  *
+**  *     * * *
+*  ** *  *   **
+* **  * * **  *
+*      * *   **
+* *  **   * * *
+*      *      *
+***************
+13 16
+FRFRFF LL  RRF RRR LL L  FLLRL R FL FF  F FL Q
+
+18 8
+********
+* *  * *
+*      *
+**   ***
+*      *
+* *    *
+*      *
+**     *
+*   *  *
+***   **
+*  * * *
+*      *
+*      *
+* **  **
+*  * * *
+* ***  *
+**  * **
+********
+11 7
+R LFFFR  RFLRL  RRLFLFLFFFF R F R FQ
+
+10 20
+********************
+*  * *  *  ** * *  *
+*   *   *  *     * *
+*         *        *
+*      *       * * *
+*         *    * * *
+* **   *  *   *** **
+*    **        *   *
+*     * ** *     * *
+********************
+11 14
+FFRLL RFL LL RRLFRLLLLFFFF  Q
+
+15 16
+****************
+** ***       * *
+**  *** **     *
+*        **    *
+*              *
+**    *     *  *
+*   * * * *    *
+* *    **      *
+*  *           *
+*  * *   *   * *
+*   **       * *
+** *   * *     *
+*    **    *** *
+*   *          *
+****************
+14 3
+F RL LL RL FRL FFRL R R F RL R  L RLLLF L RLLR FLLRLF LF F L  F LRLF FR RRRLRFFFR RLRRRRLLQ
+
+8 22
+**********************
+* *        **   *    *
+** *** *    *    *   *
+*            *   *   *
+**       * *         *
+*   * *     * * * ** *
+*   * *   *   *    * *
+**********************
+6 12
+RRF LF LRRFR FF  RFR FFQ
+
+8 16
+****************
+* *            *
+*   **    * ****
+** *   *       *
+*              *
+*   *    * * * *
+**   *         *
+************* **
+8 14
+FLR  LRFRLRRRQ
+
+22 14
+**************
+*   **  **   *
+*   *      * *
+**           *
+***          *
+* *  * ** *  *
+*     * **   *
+* *    *     *
+*        **  *
+*     **     *
+*    *      **
+*       *    *
+*   **   *  **
+***      *  **
+****     ** **
+* **        **
+* *      *   *
+*            *
+****  *  *  **
+*            *
+* *   *  **  *
+**************
+17 15
+ R F RRR FRL R RLFR   LRFRLRF F LRFR   RF RF LRRLRRFF L RFRRFL  LFFLL  FR R   FL  LL R R L LR F LRFRR LLFFR  F  FF RF LFRLRL RFQ
+
+16 17
+*****************
+*               *
+**   *  ******  *
+*     **  * * * *
+* **  * **      *
+* **  *   * ** **
+*  *    *   *   *
+* *   *   ** ** *
+**   *      * * *
+* *       *  ** *
+*    * *       **
+** * *   *      *
+*  ** *     **  *
+** ***      *   *
+*** **   *      *
+*****************
+9 16
+L FRR FRLFR  LRFFRRFRLLFRLFRR LRLQ
+
+20 16
+****************
+*        **  * *
+** *  *    * ***
+*    *    *  ***
+* *     ***  ***
+****     *     *
+*              *
+*   *    *  *  *
+*   *   *   *  *
+*  *           *
+*  *  * * *    *
+*      **      *
+**  *  *  **  **
+* *      ** *  *
+* **      ******
+*        *    **
+*  ** ***      *
+* * * *        *
+**   *         *
+****************
+12 11
+ RLLR RLF F  RF RRFF R LR   R LFLRFFFLFFLFLLFF RRRRRRLR Q
+
+13 7
+*******
+*    **
+* *   *
+*     *
+*     *
+*    **
+*    **
+*     *
+**  * *
+*  * **
+*     *
+*     *
+*******
+6 4
+FLLRRRR FFFRLFLFLFRF R    FRR LLFF RL RRFR LRF RRRF L  FFLLFFL FL LFRLFFLRLRR R  L L LFLRLRFFQ
+
+11 8
+********
+*      *
+** * * *
+*    * *
+**     *
+*      *
+*  * * *
+*  *   *
+***    *
+*   ** *
+********
+5 5
+RFLF RF       FLRRL LLRFLFL L F   RFLLLFLFFRFRL  R L  F FR  FLFFLFFLFL L LRLR  LFFFRRFRF FFL LL L FLRF L  RFRFFRF FLL   LFFLRFR LF F  R RRLFR FRRFFF R LLLLFLF F R FRFFLLL RQ
+
+15 16
+****************
+*   *          *
+*     *   * ****
+***     ***    *
+**   **   *   **
+*  *          **
+*  * *  * * ** *
+*       * *    *
+**   *  * ******
+*   *        * *
+**  * **       *
+**   *     *   *
+*          *   *
+******  **    **
+******** *******
+15 9
+L  LLF LFFRRRLLF RRFF F FL   RRLRFFLRFLL LLRF LF FL LR RF  LLR LL    R RLFLFRRQ
+
+11 14
+**************
+* *  *   **  *
+* **  * *   **
+***** *  * ***
+* ** *   * * *
+*     *  *   *
+*      ** *  *
+*  * **     **
+*            *
+**      * ** *
+**************
+12 2
+ Q
+
+19 14
+**************
+* *     ** * *
+**     *  *  *
+* *          *
+* *      **  *
+*       *    *
+*     *  * * *
+**  * *    * *
+*      ***   *
+*  **    * * *
+*   **  **   *
+*    * **  * *
+*       *  * *
+*      ***  **
+* *** *  *   *
+**        * **
+*  *  *  **  *
+** ***       *
+**************
+20 11
+ LFR L L RLRRF RLR    R R FR R LL FLL L LL  F RF FRR FLL LLFRFRLLR R FR F LFFR F  R R FRFL LRLFRLFLLRRRRF FLFR LFLR L FLL  LRL RF LR R L F FFF FF FR LLLLLFRR RFRF FF F FLF FFLFRLRLFLRFFFRRFRFLLF   FL RFFLLFL  LRRRLL LLLRFL F R F L  FR  RL  F LR FF  FR R  RFL RFFFFR LL LLFF LQ
+
+10 14
+**************
+*  *   ** *  *
+*   *        *
+*   ** * *   *
+*       *  * *
+*    *    *  *
+*     *   *  *
+*    *  * *
+*         *  *
+**************
+8 14
+ LFLFFF  LRFR   RRFFR FL FRLL  Q
+
+14 22
+**********************
+* *    *            **
+** *   *  *  *       *
+* **   **  * ***  ** *
+* *   *   *  *     * *
+* *   *  * *  *  **  *
+**  *    *  ***  * * *
+* * **           *  **
+** ** *    *     **  *
+*   *** * **    * *  *
+*            **  * ***
+***            *   * *
+*      *  *  **    * *
+**********************
+10 20
+L FRR F  F L LFRL RR  F FRFLLRFR FLLLL RR LFRLR RRLLFLFLL LLRFFFRLFRFRLF FFLQ
+
+20 13
+*************
+*       *  **
+*      *    *
+*   ***   * *
+* *       * *
+** *  *     *
+**  *       *
+*   * *    **
+*** **   *  *
+*     * *   *
+* *   *  *  *
+*      *    *
+*         * *
+*       *** *
+***  *   *  *
+*  *        *
+* *  *  *  **
+*     *   * *
+* **  *     *
+*************
+17 5
+LLFF RLL  F FRRRR FFF L LR FLLFLR FRL FFLFFFLF LFL RRRFLR  LFLLRLFLQ
+
+8 8
+********
+*    * *
+*      *
+* * *  *
+*  **  *
+*      *
+*   *  *
+*******
+8 8
+F F  FFLL  LRF  LFFLFL  FLRFLRRLQ
+
+19 10
+**********
+*** **  **
+*       **
+*        *
+*       **
+*  * *   *
+*  *     *
+***  **  *
+*  *  * **
+*     * **
+*      * *
+*  *   ***
+**     * *
+*        *
+*      * *
+* *   * **
+* *    * *
+**       *
+**********
+17 9
+  FR FLL FRRLFRRFLLFL LRRL FRRRFFRLLFLRQ
+
+20 4
+****
+** *
+*  *
+*  *
+*  *
+* **
+*  *
+** *
+* **
+*  *
+*  *
+*  *
+****
+*  *
+** *
+*  *
+*  *
+* **
+*  *
+****
+8 5
+R  F RRLRLR R   FLFFFRFRRFLR FLLLFFLRRLRFFL LR FLLRLFFF FRL RRLR  F  F   L  FLQ
+
+17 13
+*************
+* *  *    * *
+* ***    *  *
+* *         *
+* *    *    *
+* *     *   *
+* *    ** * *
+**    **    *
+* ***   *  **
+***      *  *
+*  *        *
+**          *
+*  *    *   *
+***      *  *
+*       *   *
+*       *  **
+*************
+7 14
+R RLFLFFR FFLRFLFLF  RFFR RL FRLL LRF LR RLR FRF RLRRF  LLL RFR LFRRLL R R LLRLFRL LFRLF   RFRFLRFRRRLR FRLRRLF FLLLRFLFFFF LFLL   R  FR L FR RLF        LFR  R  RLRL R LFRFLFR LFL   LLR L LRRF FRF RRR FL  FRFFRF      RFFFF LRLRRFL RL FLFFRFFL RRFLFRF R RF  FLRRLFRRLFFF FLRR LL LL   FRQ
+
+6 15
+***************
+*   *  **     *
+*   *   * *   *
+* * *   *  *  *
+* *   **  *****
+************* *
+6 14
+F R Q
+
+11 5
+*****
+*   *
+** **
+*   *
+*   *
+*   *
+** **
+**  *
+*   *
+* * *
+*****
+10 6
+RLR RRR RF  LRLL L R FFFFLFFLFLLRRLFRFF LFQ
+
+12 6
+******
+*    *
+**  **
+*    *
+*    *
+*    *
+*   **
+*  * *
+*  * *
+* * **
+* ** *
+**** *
+12 5
+RFRLFR  FLF RFFFFQ
+
+19 10
+**********
+* * *   **
+*    ** **
+* *     **
+** *   *
+*   * ****
+*        *
+*      ***
+* *      *
+* * **** *
+* * * * **
+* *      *
+**       *
+*       **
+*  **  * *
+* * *    *
+*   *    *
+* **     *
+**********
+5 10
+ L   FF  RF FFR FLLLRL RRL R LR FR R  RLLFLL RF  FFF RRFFFFLL FRRLR FRFFLFRRLFFL FFLLQ
+
+19 4
+****
+*  *
+*  *
+** *
+*  *
+*  *
+*  *
+****
+****
+* **
+*  *
+*  *
+*  *
+** *
+*  *
+** *
+* **
+****
+****
+15 2
+FRR FLLLFL FF FFRLFFFRRFRFL LR LL  F FRFFRRRFRFL RQ
+
+9 20
+********************
+*****   *    ** *  *
+*    ** ** ** ** * *
+**          *  *  **
+* **  * **         *
+* **  *     *  *   *
+* *  **    *  * * **
+**          **     *
+********************
+10 17
+R FRLFFRFRF LL F F R RF  LLF  RLRFLF RF    LRRRLL R  RL RRRRL L R FRFRR RF F  F LFRLRLLLRR LFRF R LR L LLR  FLFLR LLFR   FLRRLRR LRLLFR R  L RRLLLLLRRLL  FLFLLRR LF RL RF    R FL R  FL LLLRR RRLFRLRLL FLLLRRLFFLRFLLF LRFFFFLFR LFLLRLF F  RQ
+
+5 15
+***************
+*  *    *   ***
+*        * *  *
+**        **  *
+***************
+4 4
+LLL R FFLLL LFFF FLF RFFRFLL FF LF FRFLRF FFR F  LFFL  RF LLF F RLF R LL LRRLRRR RL LRLR LRL FFR   RLLFFLRL RFR   LRL RL  FRQ
+
+21 11
+***********
+*    *   **
+*  **     *
+* *    *  *
+*         *
+***       *
+* *       *
+*    * *  *
+*        **
+***    *  *
+*  *   *  *
+* *       *
+*   *     *
+**   *  * *
+*        **
+*    ***  *
+*  *   ****
+*  *   *  *
+* **   * **
+**  *  ** *
+***********
+11 10
+ L RRRFRFLLLRF LRLRR FLF FRRFF FFL L FRLRRFR L RR RRL FFLFL R FFL F FRFR RL LR LFFLRL FFR FFF    F LRLFRRLFRF RR R LLFLFRLLFFFRFLFLLRLFL F  LRF L RFFFLLFRLLR  LRL L     FRFFLFFFRFLFFLFFFRRL  LLRLRR RF  FR  RRFQ
+
+18 7
+*******
+*  *  *
+*** ***
+**    *
+* *   *
+***   *
+*     *
+*  *  *
+*     *
+*    **
+*  * **
+** *  *
+*     *
+*  *  *
+*  * **
+*     *
+*  *  *
+******
+18 7
+RRRRLFLLRRL LF RFR R FQ
+
+13 14
+**************
+**        *  *
+*  ***  * *  *
+***    *   * *
+*      *     *
+* **** *     *
+*  ** *   *  *
+*   *        *
+*        *  **
+**           *
+*   **      **
+*         * **
+**************
+9 6
+LL LRLLQ
+
+9 12
+************
+* * *      *
+**       * *
+***     *  *
+*        * *
+*          *
+**  *  * ***
+* *   *    *
+************
+4 11
+L  RF   LLR LR LLLLF R FFFR LLRRFFRR LRR FL F  RRRLLR F R R LLR F R RF  R FLFRLRFF FLFL   RRQ
+
+8 12
+************
+**    *    *
+*   * **   *
+* ***   *  *
+*  * * * * *
+*   **    **
+* ** **  * *
+************
+3 10
+FLRFF  FFFFF LRF LLRRLLRLL L R  LFF FLFLLR L RLFLRFRLF   LFR  LFLL FLRRFLFFL RFL LLL LRFRL L RF F FRLL  FLLL FL FL  FRRFFFFR L R F FFRRRL R FLLLRLFRLFLFLLRFLRL FFFLRF LFRF  LLLRLFRRFR RL F  L  FFFRFLF FFFRLLFF R Q
+
+22 4
+****
+****
+*  *
+****
+** *
+****
+*  *
+*  *
+*  *
+*  *
+*  *
+****
+*  *
+*  *
+* **
+*  *
+** *
+*  *
+*  *
+*  *
+*  *
+****
+6 5
+ F RLL  L L  F  LFLFF RLRR LRRRFFLFL LFF RF FFL FFL RLFQ
+
+9 9
+*********
+*       *
+*       *
+*  *    *
+*  *    *
+*      **
+*    *  *
+*  * ** *
+*********
+2 6
+ RLFLL R F F F FL F FF LLLFLLLLL LR RF FFRFRRFLRLLFLFRFFFFFLRF  FRL L LFLL LLRL     RFR   FLRFLRFLRRLFLLFRLR F  F  RRL R  RFL FLL RLF  R RRL LFRRLFR   F  FF RFRL FLL F  L  LF FFLRF LLF    RFLR  LRF L RLFFL LR  R RFLL  R LQ
+
+21 11
+***********
+*  *   * **
+*  ***   **
+*** *   * *
+*       * *
+**  * *  **
+**  * **  *
+*   **   **
+*   *     *
+**** *  * *
+* * *     *
+* ** *   **
+*   *    **
+*  *  *   *
+** ** *****
+**  *     *
+* *       *
+*  *  *   *
+* *  * ** *
+*        **
+***********
+9 9
+  RL   F LR L LLRLRR  FFLL   FFFFLRLFL FLR   R F  LL LFFLR RLL   LRF LLFRRRQ
+
+18 9
+*********
+**  *   *
+* *     *
+*       *
+*    *  *
+*    ** *
+*  *   **
+*   ***
+*  ***  *
+** * *  *
+**   ****
+*    *  *
+**  *  **
+*      **
+*       *
+*       *
+*     * *
+*********
+8 9
+RLLFR FRRFF  LL  RRFLFRLFF LR R L FFFR FR FRLFLRLQ
+
+20 17
+*****************
+*              **
+*   *    **     *
+*    *   * *   **
+*            ** *
+*    *     *    *
+* *    **       *
+*      *     *  *
+*            ****
+*   *     *     *
+**    ** *   *  *
+**    ***  * ** *
+* **        * ***
+*   *** ** *   **
+*  *       *** **
+** *  *    *    *
+*     *         *
+*        * * * **
+*      * * *    *
+*****************
+12 16
+FF LRLF  LRF RF Q
+
+5 9
+*********
+* *   * *
+*       *
+*     * *
+*********
+4 3
+FR R L   RFRL LFFFRRLR   R R RR FFR RFLRLRRL  RRLFFRF FLF Q
+
+12 6
+******
+*  * *
+**   *
+*   **
+** * *
+***  *
+*    *
+**  **
+*    *
+*    *
+*  * *
+******
+6 7
+ RFR FLLFLRFF  F RRFLRL RFFLFFLRFLL L RRLRQ
+
+16 20
+********************
+***     *      *   *
+*       *   *  *** *
+*   ** * **    *   *
+*     *    **   * **
+** ** *   *  **   **
+*    *            **
+*     ** *  *   * **
+***       *  * *   *
+*    *      *  *   *
+*  *       * *   * *
+**  *  *    **  ****
+*        ****   * **
+*   *  *        * **
+*       *  **     **
+********************
+5 9
+ RLFFL Q
+
+12 17
+*****************
+***    *    *   *
+*         ***   *
+**        * *** *
+*  *    *       *
+*  ***       *  *
+*     *      * *
+* * **    *     *
+*  **        *  *
+**    *         *
+** **   *   **  *
+*****************
+7 17
+ LFFR L FLF FL  F L RF  FL  RRLLFFRRR LLR  R LFQ
+
+16 6
+******
+* *  *
+*    *
+**   *
+*    *
+*    *
+* * **
+* ** *
+**   *
+*    *
+*    *
+* *  *
+* *  *
+*   **
+*  * *
+******
+2 2
+LR LL RLR  LQ
+
+17 6
+******
+*    *
+**   *
+*    *
+* ** *
+**   *
+*   **
+**** *
+*    *
+** ***
+**   *
+**   *
+*    *
+***  *
+*   **
+*    *
+******
+7 7
+ F FLFLL LFRF R   R LLRLRFLLL RFRRFFFFFLF FLRR L LF FL  L   FL R R FLF   LRFFFLF L F F FRRL FL LLR FFQ
+
+15 7
+*******
+*    **
+**  * *
+*  *  *
+*   * *
+**    *
+**    *
+** *  *
+*   * *
+*     *
+*  *  *
+*     *
+*     *
+* * * *
+*******
+13 2
+FFRLRR Q
+
+18 12
+************
+*        ***
+*     * ** *
+**      * **
+***        *
+* *   *  ***
+* *        *
+*     *    *
+***** **   *
+*  *    *  *
+*  *     ***
+* **     * *
+*    *    **
+*    *     *
+*    *  ** *
+*  *     ***
+*      **  *
+************
+8 2
+FRLFL RLRLRRL FLFLLLRL LLRR RRFLLLL RFLRLLR L RLRF RL   FLQ
+
+11 14
+**************
+*            *
+*           **
+*  *     **  *
+* * *   * *  *
+*      **  ***
+*      ***   *
+**    *    * *
+***    * *   *
+*      *     *
+**************
+5 7
+RRLFR LFRRLRFF  L LFLRLRFFLFRR RLRFRFFLLLR  LQ
+
+10 21
+*********************
+*          *   *  ***
+*  * *      * *   * *
+*  * *  *  *    *   *
+*     *  *   *   *  *
+** *  *  **         *
+**      *       *   *
+*   *    *       * **
+*      ****   **   **
+*********************
+8 15
+ FRLFL RRRRF RR LLLRQ
+
+6 5
+*****
+*   *
+*   *
+* * *
+*  **
+** **
+6 3
+RRFL LRR  RRR R R RRRL LRFLRL  L LLLR  FFR FLR RLRRLLF F  F FLFF RR FF  FRF    LFF FF LLRL  FRF L  F RLRFLQ
+
+8 6
+******
+**
+*    *
+* *  *
+*   **
+* * **
+*    *
+******
+2 6
+RRL   RFRFLF FFLF RRRF   FLFLLL FR F FR FFLLF LQ
+
+23 14
+**************
+**          **
+**          **
+*  *   *     *
+*  * *  *    *
+* *   *      *
+*        *   *
+***  *     * *
+*  *       ***
+*  * * *     *
+*   **      **
+*  *  *      *
+** * *    *  *
+***      * ***
+*    ** *    *
+*    * **    *
+**  ** **    *
+* *     *    *
+*    * **  * *
+*    ***  *  *
+* ***        *
+*    *       *
+**************
+20 9
+RRLF LRRFLLFLRF F   LFLFRR LFFFR LRRF RFFFLRLQ
+
+20 19
+*******************
+*      * *       **
+** *    **  ***   *
+*  *  **         **
+*          *      *
+*    ** *    *   **
+***  * **   **    *
+*     *     *  * **
+*  *    *   **   **
+*    **  *   *    *
+* **          **  *
+*               * *
+* * *    *  * *   *
+*   *     *   *   *
+*  * **   *   * ***
+*      ***    * ***
+* **    ** *  * * *
+*  *     **  * ****
+*   *       *     *
+*******************
+11 6
+RRLRFF  LLF FFRFR RL  L   F LFR FLRLLL LF   R  L  LLR LRLF L LLFL RFRL  FL FFRRFL  LFRL FLR R  RR FRFFFLLRLLLFLR LLR LLR LFLRFRLLL FR RF L FRLRF RFFFF  LRFRQ
